@@ -32,5 +32,11 @@ O projeto consiste em desenvolver um jogo com o uso de um Sistema de Banco de Da
                     <h5 class="text-center">Gabriel Marques de Souza<br>202016266</h5>
                 </a>
             </td>
+            <td align="center">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/117595816?v=4" width="150px;"/>
+                <a href="https://github.com/pedroeverton217">
+                    <h5 class="text-center">Pedro Everton de Paula<br>221008768</h5>
+                </a>
+            </td>
     </table>
 </div>
