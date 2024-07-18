@@ -26,5 +26,11 @@ O projeto consiste em desenvolver um jogo com o uso de um Sistema de Banco de Da
                     <h5 class="text-center">Mateus Villela Consorte<br>221008786</h5>
                 </a>
             </td>
+            <td align="center">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88348513?v=4" width="150px;"/>
+                <a href="https://github.com/GabrielMS00">
+                    <h5 class="text-center">Gabriel Marques de Souza<br>202016266</h5>
+                </a>
+            </td>
     </table>
 </div>
