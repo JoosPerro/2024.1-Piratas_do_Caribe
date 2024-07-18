@@ -20,5 +20,11 @@ O projeto consiste em desenvolver um jogo com o uso de um Sistema de Banco de Da
                     <h5 class="text-center">João Pedro Veras Gomes<br>211061968</h5>
                 </a>
             </td>
+            <td align="center">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/108163301?v=4" width="150px;"/>
+                <a href="https://github.com/MVConsorte">
+                    <h5 class="text-center">Mateus Villela Consorte<br>221008786</h5>
+                </a>
+            </td>
     </table>
 </div>
